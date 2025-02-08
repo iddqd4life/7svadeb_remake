@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Century Gothic";
+    src: url("../fonts/CenturyGothic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "AvantGardeCTT";
+    src: url("../fonts/AvantGardeCTT.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
